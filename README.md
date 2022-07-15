@@ -9,4 +9,4 @@ Description
 
 The Implementation of Exploratory Data Analysis (EDA) and K-Means Clustering in Python using Jupyter Notebook. 
 
-In this study case we want to do a selection of a country that needs the most financial aid using clustering method to give the recommendation to the company.
+This implementation uses a study case where we need to select a country that needs the most financial aid using the clustering method to recommend the company.
